@@ -8,6 +8,7 @@ At the end of the challenge, we would be able to see how the data differs by cit
 In terms of the total fare by city type, as the multiple line graph above.
 We could concludes that the Urban have the greatest total fare amount the 3 city, Suburban 2nd, and Rural last.
 Yet, this doesn't mean anything other than reveue.
+
 We have to look at it deeper, when we are looking at the average fare per Ride as the chart shown below.
 
 <img width="449" alt="捕获" src="https://user-images.githubusercontent.com/109333158/193481210-ce9228ca-8a03-4261-9fdd-6714e7c88b22.PNG">
